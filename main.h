@@ -17,7 +17,7 @@ int print_rev(va_list l, flags_t *f);
 int print_bigS(va_list l, flags_t *f);
 int print_address(va_list l, flags_t *f);
 int print_percent(va_list l, flags_t *f);
-
+int print_octal(va_list l, flags_t *f);
 
 char *convert(unsigned long int num, int base, int lowercase);
 /**structures **/
