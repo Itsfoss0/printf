@@ -14,6 +14,7 @@ int get_flag(char s, flags_t *f);
 int (*get_print(char s))(va_list, flags_t *);
 int print_rot13(va_list l, flags_t *f);
 int print_rev(va_list l, flags_t *f);
+int print_bigS(va_list l, flags_t *f);
 
 /**structures **/
 /**
