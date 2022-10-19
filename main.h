@@ -25,6 +25,7 @@ int print_hex(va_list l, flags_t *f);
 char *convert(unsigned long int num, int base, int lowercase);
 int print_unsigned(va_list l, flags_t *f);
 
+int print_int(va_list l, flags_t *f);
 int count_digit(int i);
 void print_number(int n);
 /**structures **/
