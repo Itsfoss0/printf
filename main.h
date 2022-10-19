@@ -26,6 +26,7 @@ char *convert(unsigned long int num, int base, int lowercase);
 int print_unsigned(va_list l, flags_t *f);
 
 int count_digit(int i);
+void print_number(int n)
 /**structures **/
 /**
  * struct flags - struct containing flags to "turn on"
