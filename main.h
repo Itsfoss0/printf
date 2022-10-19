@@ -23,6 +23,8 @@ int print_hex_big(va_list l, flags_t *f);
 int print_hex(va_list l, flags_t *f);
 
 char *convert(unsigned long int num, int base, int lowercase);
+
+int count_digit(int i);
 /**structures **/
 /**
  * struct flags - struct containing flags to "turn on"
