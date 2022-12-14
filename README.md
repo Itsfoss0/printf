@@ -2,7 +2,7 @@
 > printf project
 
 ## About 
-In this project, we are required to implement the ```printf``` function in python from scratch 
+In this project, we are required to implement the ```printf``` function in C from scratch 
 
 
 ## Resources 
