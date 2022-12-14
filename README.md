@@ -19,3 +19,11 @@ In this project, we are required to implement the ```printf``` function in pytho
     va_end (man 3 va_end)
     va_copy (man 3 va_copy)
     va_arg (man 3 va_arg)
+
+## Compilation
+Your code will be compiled with the following flags 
+
+~~~
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
+
+~~~
