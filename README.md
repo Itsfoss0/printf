@@ -7,3 +7,6 @@ In this project, we are required to implement the ```printf``` function in pytho
 
 ## Resources 
 1. [Secrets of printf](https://www.academia.edu/10297206/Secrets_of_printf_)
+
+## Man/Help 
+- printf(3)
