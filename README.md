@@ -2,3 +2,8 @@
 > printf project
 
 ## About 
+In this project, we are required to implement the ```printf``` function in python from scratch 
+
+
+## Resources 
+1. [Secrets of printf](https://www.academia.edu/10297206/Secrets_of_printf_)
